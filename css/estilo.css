@@ -1,11 +1,23 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-color: azure;
+    background-color: azure;;
 }
 
 .box{
     width: 200px;
     height: 200px;
+    margin: 5px;
+}
+
+.c-violet{
     background-color: blueviolet;
+}
+
+.c-red{
+    background-color: brown;
+}
+
+.c-blue{
+    background-color: cornflowerblue;
 }
